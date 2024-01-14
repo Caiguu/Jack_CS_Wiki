@@ -45,4 +45,4 @@ nav:
   - Home: 'index.md'
   - 'CS186: 数据库系统':
     - '概述': 'CS186/CS186-overview.md'
-    - 'Intro': 'CS186/test.md'
+    - 'Lecture 1': 'CS186/Lecture 1.md'
