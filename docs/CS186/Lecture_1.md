@@ -15,11 +15,11 @@
 
 It looks like the platters on a disk drive.
 
-<img src="Lecture_1.assets/pic1.png" alt="pic1" style="zoom: 33%;" />
+![pic1](Lecture_1.assets/pic1.png)
 
 It's the first commercial disk device:
 
-<img src="Lecture_1.assets/pic2.png" alt="pic2" style="zoom:25%;" />
+![pic2](Lecture_1.assets/pic2.png)
 
 ### What is Database?
 
